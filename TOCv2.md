@@ -5,10 +5,10 @@
 2. Objects, Expression, Built-in Classes, Identifiers
 3. Functions, Control-Flow, Looping,
 4. Notes on Built-in classes
-... String (Add Some Code Snippet to distinguish importatnt concepts)
-... Tuples
-    **4.3**: Lists
-    **4.4**: Dictionaries
+..1. String (Add Some Code Snippet to distinguish importatnt concepts)
+..2. Tuples
+..3. Lists
+..4. Dictionaries
     **4.5**: Ints, Floats,
 **5**: Operators
 **6**:Recursion in Python
