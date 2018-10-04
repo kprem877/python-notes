@@ -1,8 +1,8 @@
 **The Table of Contents**
 
-**1**: Python interpreted vs. compiled.and Installing Python3 on Linux,
+* Python interpreted vs. compiled.and Installing Python3 on Linux,
         python package management and virtual-env
-**2**: Objects, Expression, Built-in Classes, Identifiers
+* Objects, Expression, Built-in Classes, Identifiers
 **3**: Functions, Control-Flow, Looping, 
 **4**: Notes on Built-in classes
     **4.1**: String (Add Some Code Snippet to distinguish importatnt concepts)
