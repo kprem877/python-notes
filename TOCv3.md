@@ -32,4 +32,17 @@ If you'd like to quote someone, use the > character before the line:
 
 > - Captain Janeway
 
+# Adding Tables
+
+First Header | Second Header
+------------ | ------------
+Content from cell 1 | Content from cell 2
+Content in the first column | content in the second column
+
+### Adding another table
+
+ToDo     | work-status       | Due Date
+---------| ------------| ------
+Write notes on python3 | Working on it | **Oct.7th, 2018**
+Complete Unit V & VI of DCWSN | Finished Two Questions |[Instagram](https://www.instagram.com/)
 
